@@ -1,0 +1,71 @@
+.header-btn {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.header-top-left img {
+  max-width: 250px;
+  max-height: 50px;
+}
+.odd-area {
+  background-color: #f9f9ff;
+}
+.even-area {
+  background-color: #fff;
+}
+.even-area .progress-table {
+  background-color: transparent;
+}
+.price-wrap span.price.price-currency {
+  margin-bottom: 12px;
+}
+.price-wrap span.price.price-value {
+  line-height: 1.2em;
+  font-size: 60px;
+  font-weight: 300;
+}
+.single-price {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+.single-price:hover {
+  cursor: auto;
+}
+.single-price .price-bottom .primary-btn {
+  text-transform: none;
+}
+.table-multi-row {
+  flex-direction: column;
+  padding: 0 !important;
+}
+.table-multi-row .table-row {
+  border-top: 0;
+}
+.table-row.sub-row {
+  padding-top: 5px;
+  padding-left: 20px;
+  border-top: 0;
+}
+.open-hour-wrap {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.footer-area, .footer-bottom, .footer-text a, .footer-text i {
+  padding: 0;
+  background-color: #fff;
+  color: #fff !important;
+  cursor: default;
+}
+.contact-page-area .map-wrap {
+  width: 100%;
+  height: 445px;
+}
+.contact-page-area .map-wrap iframe {
+  margin: 0;
+  border: 1px solid black;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+

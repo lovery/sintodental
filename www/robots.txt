@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.sintodental.bg/sitemap.xml
+Host: www.sintodental.bg
