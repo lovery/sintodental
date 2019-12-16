@@ -19,9 +19,9 @@
   },
   "homepage": "https://gitlab.com/lovery/sintodental#readme",
   "devDependencies": {
-    "harp": "^0.30.0"
+    "harp": "^0.30.1"
   },
   "dependencies": {
-    "cookieconsent": "^3.1.0"
+    "cookieconsent": "^3.1.1"
   }
 }
